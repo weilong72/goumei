@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<img src="https://images.app.goo.gl/uQmvXf5KfgtYrm658" />
 <html lang="zh-CN">
 <images/goumei.jpg>
   <meta charset="UTF-8" />
