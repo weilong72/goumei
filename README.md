@@ -20,7 +20,7 @@
 <body>
   <header>
     <h1>阿忠带你去看笔趣小说</h1>
-    <p>免费看热门小说与狗妹喷水</p>
+    <p>9e63167851e11983c6ec37c739810dfe.webp</p>
   </header>
 
   <div class="banner-ad">
